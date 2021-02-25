@@ -1,0 +1,35 @@
+b 
+{ 
+    margin:0;
+    }
+.hero
+{
+    background: #222f3e;
+    font: #ffffff;
+    padding-top: 50 px;
+    padding-bottom: 50 px;
+    text-align: center;
+    }
+s
+{
+    padding-top:36 px;
+    padding-bottom: 36 px;
+}
+.container
+{
+    max-width:900 px;
+    margin: 0 auto;
+}
+.img
+{
+    display: inline-block;
+    max-width: 48%;
+}
+.info
+{
+    background: #c8d6e5;   
+}
+.links
+{
+    color:#ee5253;
+}
